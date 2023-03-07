@@ -1,0 +1,125 @@
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(245, 239, 239);
+}
+.w3-row-padding img {
+ margin-bottom: 12px
+}
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(7, 50, 51);
+  min-height: 100%;
+}
+body {
+  background-color: rgb(7, 50, 51) ;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-size: larger;
+}
+.topnav {
+  overflow: hidden;
+  background-color: rgb(7, 50, 51);
+}
+.topnav a {
+  float: left;
+  color: #efebeb;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: rgb(19, 77, 77);
+  color: black;
+}
+.topnav a.active {
+  background-color: #1b5454;
+  color: rgb(244, 238, 238);
+}
+.navbar-end {
+  color: rgb(244, 238, 238);
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+.pimg {
+  border-radius:200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.vl {
+  border-left: 4px solid rgb(243, 248, 243);
+  height: 150px;
+  padding: 5px;
+}
+.vl-long{
+  height: 300px;
+  border-left: 4px solid rgb(243, 248, 243);
+}
+.box{
+  background-color: rgb(7, 50, 51);
+  color: rgb(249, 246, 246);
+  width: max-content;
+  margin: 10px;
+  padding-left: 1px;
+  font-size:x-large;
+}
+.self-box{
+  background-color: rgb(7, 50, 51);
+  color: rgb(249, 246, 246);
+  width: auto;
+  margin: 10px;
+  padding-left: 100px;
+  font-size: large;
+}
+section{
+  max-height: max-content;
+  text-align:left;
+  position:relative;
+}
+.sec{
+  height: 80vh;
+  align-content: center;
+}
+.sec1{
+  align-content: center;
+}
+.contacts{
+  padding-top: -100px;
+}
+.quote{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #efebeb;
+  text-align: center;
+}
+.heading{
+  padding-left: 5%;
+  font-size: xx-large;
+}
+.sub-head{
+  padding-left: 10px;
+  font-size:x-large;
+}
+.colunm-is-half{
+  position:center;
+  margin-top: 150px;
+}
+coloumn-is-two-third{
+  padding-left: 20%;
+}
+.p-xl{
+  font-size:x-large;
+}
+.name{
+  padding-left: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+}
+.first{
+  margin-top:180px;
+}
